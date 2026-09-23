@@ -1,8 +1,6 @@
 ---
 title: Welcome to my blog!
 ---
-# Welcome
- 
 Hi! 👋
  
 ## About me
